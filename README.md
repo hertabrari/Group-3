@@ -9,3 +9,6 @@ So, to wrap it up the main functionalities will be:
 -	Car drivers can book their parking lot and specify the staying time
 
 As described above, this program aims to give a more efficient way of using the transport resources since this procedure affects everybody’s life in our university.
+
+
+<img src="./Diagrams/Database ERD/ERD.png" width=200 height=200>
