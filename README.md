@@ -7,6 +7,7 @@ So, to wrap it up the main functionalities will be:
 -	Bus passengers can reserve their seat
 -	The admin can control the bus status: capacity, is it departed or not
 -	Car drivers can book their parking lot and specify the staying time
+-	Manager can add and edit employee information
 
 As described above, this program aims to give a more efficient way of using the transport resources since this procedure affects everybody’s life in our university.
 
